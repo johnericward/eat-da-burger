@@ -16,5 +16,13 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnericward/eat-da-burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnericward/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/johnericward/eat-da-burger#readme"
 }
