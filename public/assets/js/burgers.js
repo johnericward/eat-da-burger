@@ -39,7 +39,7 @@ $(function() {
         console.log("created new burger");
         console.log(result);
         // Reload the page to get the updated list
-        // location.reload();
+        location.reload();
       }
     );
   });
