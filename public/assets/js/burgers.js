@@ -35,10 +35,11 @@ $(function() {
       type: "POST",
       data: newBurger
     }).then(
-      function() {
+      function(result) {
         console.log("created new burger");
+        console.log(result);
         // Reload the page to get the updated list
-        location.reload();
+        // location.reload();
       }
     );
   });
